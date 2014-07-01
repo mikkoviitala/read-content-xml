@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Manager>
+    <Item>
+      Item 1
+    </Item>
+    <Item>
+      Item 2
+    </Item>
+  </Manager>
+</Root>
